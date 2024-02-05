@@ -1,0 +1,14 @@
+#mycontainer {
+    width: 80%;
+    overflow: auto;
+    margin: auto;
+    background-color: brown;
+}
+.szépdiv{
+    width:30%;
+    float:left;
+    margin:3px;
+    padding:10px;
+}
+
+
